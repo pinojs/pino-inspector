@@ -1,5 +1,7 @@
 # pino-inspector
 
+[![Build Status](https://dev.azure.com/pinojs/pino-inspector/_apis/build/status/pinojs.pino-inspector)](https://dev.azure.com/pinojs/pino-inspector/_build/latest?definitionId=1)
+
 Send your pino logs to the node inspector!
 This project piggybacks on
 [pino-pretty](https://github.com/pinojs/pino-pretty).
