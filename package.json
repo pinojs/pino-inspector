@@ -1,6 +1,6 @@
 {
   "name": "pino-inspector",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Send your pino logs to the node inspector",
   "main": "index.js",
   "scripts": {
