@@ -21,7 +21,7 @@ npm i pino pino-inspector
 ```js
 'use strict'
 
-const pinoInspector = require('.')
+const pinoInspector = require('pino-inspector')
 
 const pino = require('pino')({
   level: 'debug',
